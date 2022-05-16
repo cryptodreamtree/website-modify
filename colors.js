@@ -23,7 +23,7 @@ function nightdayhandler(self){
    body.setcolor('white');
    self.value = 'day';
 
-  links.setcolor('white');
+  links.setcolor('powderblue');
  } else{
    body.setbackgroundcolor('white');
    body.setcolor('black');
